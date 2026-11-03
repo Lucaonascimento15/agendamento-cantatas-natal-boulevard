@@ -70,7 +70,6 @@ Uma única aba, `Inscricoes`, sem relações entre tabelas:
 - Confirmado e Realocado ocupam o horário. Pendente, Concluído e Cancelado não ocupam.
 - A gravação usa `LockService` para evitar duas inscrições simultâneas no mesmo horário.
 
-> **Sobre o Supabase:** esta versão **não usa** Supabase. Um desenho de banco para uma versão futura (tabelas `corais`, `slots` e `user_roles`, índice único parcial para impedir dois confirmados no mesmo horário, RLS) foi especificado em um prompt, mas **não foi implementado nem validado**.
 
 ## Fluxo de uso
 
