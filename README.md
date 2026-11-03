@@ -106,11 +106,6 @@ Há também um protótipo visual em `prototipo/` (HTML único, dados no `localSt
   <img width="1058" height="666" alt="image" src="https://github.com/user-attachments/assets/719d3630-a885-4ff9-bda8-d157f14a59a8" />
 
 
-
-
-*(Use dados fictícios ou borre dados reais.)*
-
-
 ## Aprendizados
 
 - Login feito só no navegador não protege nada: a senha precisa ser conferida no servidor.
