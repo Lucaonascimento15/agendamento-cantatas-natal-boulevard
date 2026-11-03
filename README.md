@@ -94,15 +94,19 @@ Não há servidor local: o app roda dentro do Google Apps Script.
 
 Há também um protótipo visual em `prototipo/` (HTML único, dados no `localStorage` do navegador, e-mails simulados, login de demonstração). Ele não grava em nenhum servidor.
 
-## Prints e GIFs sugeridos
+## Como ficou o sistema
 
-- Calendário público com os quatro status.
-- Modal de uma data com os horários.
-- Formulário e a mensagem de sucesso.
-- Calendário da equipe com chips coloridos.
-- Modal de detalhes com os botões de ação.
-- A planilha `Inscricoes` com linhas de teste.
-- GIF: inscrição → confirmação → e-mail recebido.
+- Aba de inscrição
+  <img width="1330" height="870" alt="image" src="https://github.com/user-attachments/assets/f5e2af08-a3bd-44f1-8452-0a722aa9a9da" />
+- Login para administradores
+  <img width="1069" height="674" alt="image" src="https://github.com/user-attachments/assets/437843fc-9824-46fa-99aa-dd5536f9e435" />
+- Visão de administrador
+  <img width="1191" height="830" alt="image" src="https://github.com/user-attachments/assets/3763a0ad-a937-4698-a33b-2f0a3e41f834" />
+- Visão de calendário de inscrição
+  <img width="1058" height="666" alt="image" src="https://github.com/user-attachments/assets/719d3630-a885-4ff9-bda8-d157f14a59a8" />
+
+
+
 
 *(Use dados fictícios ou borre dados reais.)*
 
